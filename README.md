@@ -11,6 +11,7 @@
 Current stack (constantly evolving 😉):
 <br/>
 <img src="https://img.shields.io/static/v1?logo=javascript&label&color=F7DF1E&message=JavaScript&logoColor=black&logoWidth=20">
+![ts](https://badgen.net/badge/-/TypeScript?icon=typescript&label&labelColor=blue&color=555555)
 <img src="https://img.shields.io/static/v1?logo=react&label&color=61DAFB&message=React&logoColor=black&logoWidth=20">
 <img src="https://img.shields.io/static/v1?logo=sass&label&color=CC6699&message=SCSS&logoColor=white&logoWidth=20">
 <img src="https://img.shields.io/static/v1?logo=css3&label&color=1572B6&message=CSS&logoColor=white&logoWidth=20">
