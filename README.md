@@ -27,6 +27,7 @@ Current stack (constantly evolving 😉):
 <img src="https://img.shields.io/static/v1?logo=netlify&label&color=00C7B7&message=Netlify&logoColor=white&logoWidth=20">
 <img src="https://img.shields.io/static/v1?logo=github&label&color=181717&message=GitHub&logoColor=white&logoWidth=20">
 <img src="https://img.shields.io/static/v1?logo=figma&label&color=F24E1E&message=Figma&logoColor=white&logoWidth=20">
+<img src="https://img.shields.io/static/v1?logo=firebase&label&color=F24E1E&message=Firebase&logoColor=white&logoWidth=20">
 <hr>
 
 🔥 **Goal**
