@@ -38,5 +38,5 @@ Current stack (constantly evolving 😉):
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasBne&show_icons=true)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebavuye&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
