@@ -28,6 +28,10 @@ Current stack (constantly evolving 😉):
 <img src="https://img.shields.io/static/v1?logo=github&label&color=181717&message=GitHub&logoColor=white&logoWidth=20">
 <img src="https://img.shields.io/static/v1?logo=figma&label&color=F24E1E&message=Figma&logoColor=white&logoWidth=20">
 <img src="https://img.shields.io/static/v1?logo=firebase&label&color=F24E1E&message=Firebase&logoColor=white&logoWidth=20">
+<img src="https://img.shields.io/static/v1?logo=reactQuery&label&color=ff4154&message=React%20Query&logoColor=white&logoWidth=20">
+<img src="https://img.shields.io/static/v1?logo=graphql&label&color=ff4154&message=GraphQL&logoColor=white&logoWidth=20">
+<ing src="https://img.shields.io/static/v1?logo=express&label&color=yellow&message=Express&logoColor=black&logoWidth=20">
+<img src="https://img.shields.io/static/v1?logo=ionic&label&color=blue&message=Ionic&logoColor=white&logoWidth=20">  
 <hr>
 
 🔥 **Goal**
