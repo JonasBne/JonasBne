@@ -8,7 +8,7 @@
 
 - 🔭 Currently building sustainable digital solutions at [Rombit Studio](https://rombit.studio/) as a frontend developer
 - 💬 Ask me about **JavaScript, TypeScript and React**
-- 🤓 Learning Three.js, React Three Fiber, Blender, 3D, JavaScript testing, Astro, Remix, Next.js, Node.js
+- 🤓 In 2023 I'll be learning and/or improving my knowledge of Three.js, React Three Fiber, Blender, 3D, JavaScript testing, Astro, Remix, Next.js, Node.js
 - 📫 Reach me via: [@JnsBne](https://twitter.com/jnsbne) on Twitter
 
 
