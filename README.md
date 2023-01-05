@@ -2,7 +2,7 @@
 <p align="center">I’m a passionate web developer based in Belgium. My main focus is Javascript and React.</p>
 <p align="center">
   <a href="https://twitter.com/jnsbne">Twitter</a> •
-  <a href="">Website (in the making)</a>
+  <p>Website (in the making)</p>
 </p>
 
 
