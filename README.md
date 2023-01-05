@@ -34,7 +34,3 @@ Current stack (constantly evolving 😉):
 <img src="https://img.shields.io/static/v1?logo=ionic&label&color=blue&message=Ionic&logoColor=white&logoWidth=20">  
 <hr>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonasBne&show_icons=true)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonasbne&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
