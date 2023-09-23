@@ -4,6 +4,7 @@
 - 🔭 My day job involves building sustainable digital solutions at [Rombit Studio](https://rombit.studio/) as a frontend developer on behalf of [Euricom](https://www.euri.com/)
 - 💬 Ask me about **JavaScript, TypeScript and React**
 - 🌱 Currently learning Next 13, React Server Components & React Native. I'm also tinkering around with Vue 3 & Nuxt.
+- 🖥️ Deepening my knowledge of JavaScript foundations with Kyle Simpson's course Deep JavaScript foundations v3
 - 💡 I'm developing an exciting mobile app together with [@YvesBos](https://github.com/YvesBos) and [@ToonDedo](https://github.com/toondedo). Reach us at [Shyft](https://github.com/shyft-digital).
 - 📫 Reach me via: [@JnsBne](https://twitter.com/jnsbne) on Twitter
 
